@@ -2,7 +2,7 @@
 
 I'm Hamim Mahdie, a passionate computer science student at Trinity College with a strong interest in leveraging technology to solve real-world problems. My expertise lies in software development, deep learning, and cloud-native applications. Here are a few highlights about me:
 
-- **Deep Learning Enthusiast:** As a research assistant, I have developed and optimized machine learning models for tasks such as SSD & HDD failure predictions and economic fraud detection.
+- **Deep Learning Enthusiast:** As a research assistant, I have developed and optimized machine learning models for economic fraud detection in the auto insurance industry.
 - **Full-Stack Developer:** From creating intuitive user interfaces to developing robust back-end systems, I enjoy building comprehensive applications that deliver value. Check out my [ForEx Predictor](https://github.com/tarek-debug/Forex-Predictor) and [Food 'n Stuff Scheduler](https://github.com/HamimMahdie/FoodnStuffscheduler) projects!
 - **Cloud Native Advocate:** Proficient in Docker and Kubernetes, I am skilled in deploying and managing scalable applications in the cloud. See you at KubeCon?
 - **Collaborative Contributor:** I thrive in team environments, utilizing tools like GitHub for version control, CI/CD pipelines, and issue tracking to ensure efficient project management and collaboration.
