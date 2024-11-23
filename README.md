@@ -19,7 +19,7 @@ I am always eager to learn and take on new challenges. Feel free to connect with
 - 💬 Ask me about deep learning, microservices architecture, or how to deploy applications using Docker and Kubernetes.
 - 📫 How to reach me: [Email](mailto:hamimmahdie2@gmail.com) | [LinkedIn](https://www.linkedin.com/in/hamim-mahdie-5455ab1b2/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm a vocalist at the [Accidentals](https://trinityaccidentals.com/) all-male a cappella. Check us out!
+- ⚡ Fun fact: I'm a Baritone at the [Accidentals](https://trinityaccidentals.com/) all-male a cappella. Check us out!
 
 
 
