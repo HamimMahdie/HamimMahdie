@@ -1,39 +1,18 @@
-## Hi there! 👋
+## Hello, World!
 
-I'm Hamim Mahdie, a passionate computer science student at Trinity College with a strong interest in leveraging technology to solve real-world problems. My expertise lies in software development, deep learning, and cloud-native applications. Here are a few highlights about me:
+Most of my contributions to the world of coding are tucked away in org repos rather than here. But I often come back to work on passion projects, or sometimes build something simply because I have a use for it. Besides Computer Science, I also have a background in Economics. Still early in my career to know exactly how that'll come in handy — but once I've accumulated some wealth, I'll be building my own trading application to manage my investments for sure.
 
-- **Deep Learning Enthusiast:** As a research assistant, I have developed and optimized machine learning models for economic fraud detection in the auto insurance industry.
-- **Full-Stack Developer:** From creating intuitive user interfaces to developing robust back-end systems, I enjoy building comprehensive applications that deliver value. Check out my [ForEx Predictor](https://github.com/tarek-debug/Forex-Predictor) and [Food 'n Stuff Scheduler](https://github.com/HamimMahdie/FoodnStuffscheduler) projects!
-- **Cloud Native Advocate:** Proficient in Docker and Kubernetes, I am skilled in deploying and managing scalable applications in the cloud. See you at KubeCon?
-- **Collaborative Contributor:** I thrive in team environments, utilizing tools like GitHub for version control, CI/CD pipelines, and issue tracking to ensure efficient project management and collaboration.
-
-I am always eager to learn and take on new challenges. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/hamim-mahdie-5455ab1b2/) or explore my projects on GitHub. Let's build something amazing together!
+**Some work I'm proud of:**
+- **ML/DL Research:** Having lived in the insurance capital of the world, I worked with Dr. Victor Churchill to develop and optimize machine learning models for economic fraud detection in the auto insurance industry.
+- **Full-Stack Development:** From intuitive user interfaces to robust back-end systems, I enjoy building comprehensive applications that deliver value — to me or to the world. Most of my work is available for free. Check out my [ForEx Predictor](https://github.com/tarek-debug/Forex-Predictor) and [Food 'n Stuff Scheduler](https://github.com/HamimMahdie/FoodnStuffscheduler) projects!
+- **Cloud Native Background:** Proficient in Docker, Kubernetes, and microservices architecture. I'm skilled in deploying and managing scalable applications in the cloud. See you at KubeCon?
+- **Collaborative Contributor:** I love working in agile environments — Git for version control, CI/CD pipelines, and issue tracking to keep projects moving and teams aligned.
 
 ---
 
-**TLDR**
-- 🔭 I’m currently working on enhancing economic fraud detection using deep learning-based image recognition.
-- 🌱 I’m currently learning advanced techniques in cloud-native application deployment and machine learning.
-- 👯 I’m looking to collaborate on innovative projects that involve machine learning, full-stack development, and cloud computing.
-- 🤔 I’m looking for help with integrating advanced interpretability techniques in machine learning models to improve transparency and trust.
-- 💬 Ask me about deep learning, microservices architecture, or how to deploy applications using Docker and Kubernetes.
-- 📫 How to reach me: [Email](mailto:hamimmahdie2@gmail.com) | [LinkedIn](https://www.linkedin.com/in/hamim-mahdie-5455ab1b2/)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm a Baritone at the [Accidentals](https://trinityaccidentals.com/) all-male a cappella. Check us out!
+**Let's connect**
+- I'm looking for collaborators on a project on AI explainability and interpretability — improving transparency and trust in ML systems. If that floats your boat, let's talk!
+- How to reach me: [Email](mailto:hamimmahdie2@gmail.com) | [LinkedIn](https://www.linkedin.com/in/hamim-mahdie-5455ab1b2/)
+- ⚡ Fun fact: I sing! I'm a Baritone at the [Accidentals](https://trinityaccidentals.com/), an all-male a cappella group. Check us out!
 
-
-
-<!--
-**HamimMahdie/HamimMahdie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
