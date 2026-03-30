@@ -3,7 +3,7 @@
 Most of my contributions to the world of coding are tucked away in org repos rather than here. But I often come back to work on passion projects, or sometimes build something simply because I have a use for it. Besides Computer Science, I also have a background in Economics. Still early in my career to know exactly how that'll come in handy — but once I've accumulated some wealth, I'll be building my own trading application to manage my investments for sure.
 
 **Some work I'm proud of:**
-- **ML/DL Research:** Having lived in the insurance capital of the world, I worked with Dr. Victor Churchill to develop and optimize machine learning models for economic fraud detection in the auto insurance industry.
+- **ML/DL Research:** Having lived in the insurance capital of the world, I worked with Dr. Victor Churchill to develop and optimize [machine learning models](https://github.com/HamimMahdie/ML-Fraud-Detection-Auto-Insurance) for economic fraud detection in the auto insurance industry.
 - **Full-Stack Development:** From intuitive user interfaces to robust back-end systems, I enjoy building comprehensive applications that deliver value — to me or to the world. Most of my work is available for free. Check out my [ForEx Predictor](https://github.com/tarek-debug/Forex-Predictor) and [Food 'n Stuff Scheduler](https://github.com/HamimMahdie/FoodnStuffscheduler) projects!
 - **Cloud Native Background:** Proficient in Docker, Kubernetes, and microservices architecture. I'm skilled in deploying and managing scalable applications in the cloud. See you at KubeCon?
 - **Collaborative Contributor:** I love working in agile environments — Git for version control, CI/CD pipelines, and issue tracking to keep projects moving and teams aligned.
