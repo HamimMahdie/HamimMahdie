@@ -4,7 +4,7 @@ Most of my contributions to the world of coding are tucked away in org repos rat
 
 **Some work I'm proud of:**
 - **ML/DL Research:** Having lived in the insurance capital of the world, I worked with Dr. Victor Churchill to develop and optimize [machine learning models](https://github.com/HamimMahdie/ML-Fraud-Detection-Auto-Insurance) for economic fraud detection in the auto insurance industry.
-- **Full-Stack Development:** From intuitive user interfaces to robust back-end systems, I enjoy building comprehensive applications that deliver value — to me or to the world. Most of my work is available for free. Check out my [ForEx Predictor](https://github.com/tarek-debug/Forex-Predictor) and [Food 'n Stuff Scheduler](https://github.com/HamimMahdie/FoodnStuffscheduler) projects!
+- **Full-Stack Development:** From intuitive user interfaces to robust back-end systems, I enjoy building comprehensive applications that deliver value — to me or to the world. Most of my work is available for free. Check out my [ForEx Predictor](https://github.com/tarek-debug/Forex-Predictor) and [Eventure](https://github.com/HamimMahdie/Eventure) projects!
 - **Cloud Native Background:** Proficient in Docker, Kubernetes, and microservices architecture. I'm skilled in deploying and managing scalable applications in the cloud. See you at KubeCon?
 - **Collaborative Contributor:** I love working in agile environments — Git for version control, CI/CD pipelines, and issue tracking to keep projects moving and teams aligned.
 
